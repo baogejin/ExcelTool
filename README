@@ -10,3 +10,5 @@ go语言导表工具
 第三行为数据类型，基础类型包含"bool", "int", "int32", "int64", "float", "float32", "float64", "string"，复合类型有数组、二维数组和map，具体格式参考Example.xlsx
 第四行为备注，没有实际作用
 第五行开始为具体数据
+
+本仓库后期不维护，后续更新与应用参见https://github.com/baogejin/gs/tree/main/tools/excel_tool
